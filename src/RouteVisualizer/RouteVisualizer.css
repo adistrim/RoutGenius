@@ -1,3 +1,37 @@
 .grid {
     margin: 100px 0 0;
 }
+
+.heading {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333333;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.button {
+    background-color: rgb(165, 206, 238);
+    margin: 10px;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: rgb(175, 216, 248);
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
