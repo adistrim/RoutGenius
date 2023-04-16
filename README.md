@@ -19,4 +19,4 @@ Open your web browser and navigate to http://localhost:3000 to see the RouteGeni
 Contributions are welcome! If you find a bug or have a suggestion for how to improve the project, please open an issue or submit a pull request.
 
 # License
-RouteGenius is licensed under the MIT license. See the LICENSE file for more information.
+RouteGenius is licensed under the MIT license.
